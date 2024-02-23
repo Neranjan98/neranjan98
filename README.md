@@ -7,7 +7,7 @@
 - Master of Science in Information Systems, University of Cincinnati, OH, USA
 
 ## 💼 Where have I worked:
-### Software Engineer @ EY, Chennai, India
+- Software Engineer @ EY, Chennai, India
 
 ## 🚀 What skills do I have:
 - Languages: C#, Python, SQL, JS
