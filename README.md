@@ -17,7 +17,7 @@
 - Frameworks: .NET Core, Entity Framework
 - Design Principles: SOLID Principles, Domain Driven Design, Event Driven Design, OOP Design
 
-## Some Noteworthy contributions in Below repositories:
+## 📝 Some Noteworthy contributions in Below repositories:
 - Created a Data Ingestion Application through .NET Console Application
 - Created a potent ETL Application which pulls data from a RDS and populates derived column.
 - Created a custom Log Factory Patterned connection for the same ETL Application to monitor the automated runs.
