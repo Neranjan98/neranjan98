@@ -3,7 +3,7 @@
 ## 🌟 Who am I:
 - 👨‍💻 Backend Software Engineer with a strong passion in system design, specializing in architecting robust, scalable and reliable cloud-native software solutions.
 
-## 🎓 What do I have:
+## 🎓 What did I study:
 - Master of Science in Information Systems, University of Cincinnati, OH, US
 
 ## 💼 Where have I worked:
