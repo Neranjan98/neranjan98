@@ -6,6 +6,11 @@
 ## 🎓 What did I study:
 - Master of Science in Information Systems, University of Cincinnati, OH, US
 
+| Contributed Repositories | 
+| ----------- |
+| [CityOfCincy] (https://github.com/Neranjan98/CityOfCincy) |
+| [DwBI] (https://github.com/Neranjan98/DWBI) |
+
 ## 💼 Where have I worked:
 - Software Engineer @ EY, India
 
