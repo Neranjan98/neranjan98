@@ -8,8 +8,9 @@
 
 | Contributed Repositories | 
 | ----------- |
-| [CityOfCincy] (https://github.com/Neranjan98/CityOfCincy) |
-| [DwBI] (https://github.com/Neranjan98/DWBI) |
+| [CityOfCincy](https://github.com/Neranjan98/CityOfCincy) |
+| [DwBI](https://github.com/Neranjan98/DWBI) |
+
 
 ## 💼 Where have I worked:
 - Software Engineer @ EY, India
