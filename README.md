@@ -4,7 +4,7 @@
 - 👨‍💻 Backend Software Engineer with a strong passion in system design, specializing in architecting robust, scalable and reliable cloud-native software solutions.
 
 ## 🎓 What do I have:
-- Master of Science in Information Systems, University of Cincinnati, OH, USA
+- Master of Science in Information Systems, University of Cincinnati, OH, US
 
 ## 💼 Where have I worked:
 - Software Engineer @ EY, India
@@ -22,5 +22,4 @@
 - Created a potent ETL Application which pulls data from a RDS and populates derived column.
 - Created a custom Log Factory Patterned connection for the same ETL Application to monitor the automated runs.
 - Implemented a backend for .NET MVC Application and pulled data for the same with Socrata Open Data API Specifications.
-
-
+- Designed an Web API for managing database connection strings which has Factory Pattern, Cache Aside for Distributed Cache, Dependency Injection, Migration sub implementations. 
